@@ -1,0 +1,3 @@
+- Only one app engine per project
+- Can create multiple services under same app
+- Cannot move app to another region

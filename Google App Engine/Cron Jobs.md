@@ -1,0 +1,3 @@
+- Configures using cron.yaml
+- Use cases
+	- Send report for every interval

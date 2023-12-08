@@ -1,0 +1,6 @@
+- Want to keep cost low and optimize GKE implementation - Consider Preemptible VMs, Appropriate region, E2 is cheaper than N1, Choose right environment fit your workload type
+- Want an efficient, completely auto scaling GKE solution - Configure Horizontal Pod Auto-scaler for deployments and Cluster Auto-scaler for node pools
+- Want to execute untrusted third-party code in Kubernetes Cluster - Create a new node pool with GKE Sandbox. Deploy untrusted code to Sandbox node pool
+- Want enable only internal communication between your microservice deployments in Cluster - Cluster IP type
+- Pod stays pending - Pod cannot be scheduled onto a node (need to increase nodes)
+- Pod stays waiting - Failure to pull the image

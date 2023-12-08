@@ -1,0 +1,5 @@
+- [[IaaS]]
+- [[PaaS]]
+- FaaS - Functions instead of Apps
+- CaaS - Containers instead of Apps
+- [[Serverless MS]]

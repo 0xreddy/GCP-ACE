@@ -1,0 +1,8 @@
+- **Application:** One App per Project
+- **Services:** Multiple Microservices or App components
+	- You can have multiple services in a single app
+	- Each service can have different settings
+- **Versions:** Each version associated with code configuration
+	- Each version can run in one or more instances
+	- Multiple versions can co-exist
+	- Options to rollback and split traffic
