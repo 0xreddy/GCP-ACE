@@ -1,4 +1,5 @@
 {
   "accentColor": "#df43d2",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "baseFontSize": 19
 }

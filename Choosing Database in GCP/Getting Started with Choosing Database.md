@@ -15,7 +15,7 @@
 
 ##### Increasing Availability and Durability of Databases
 - Increasing Availability
-	- Have multiple standys available or distribution the database
+	- Have multiple standbys available or distribution the database
 - Increasing Durability
 	- Multiple copies of data
 - Replicating data
@@ -41,15 +41,15 @@
 	- how many transactions?
 	- how much data?
 
-#### OLTP
+#### OLTP online transactions processing 
 
 ![[Pasted image 20231208220723.png]]
 
-#### OLAP
+#### OLAP  Online Analytics processing 
 
 ![[Pasted image 20231208220757.png]]
 
-#### NoSQL (Cloud BigTable vs Cloud Firestore)
+#### NoSQL (Cloud Big Table vs Cloud Firestore)
 
 ![[Pasted image 20231208220842.png]]
 
